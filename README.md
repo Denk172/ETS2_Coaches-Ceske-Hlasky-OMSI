@@ -26,6 +26,7 @@ Denk172 vytvořil plugin pro ETS2.
 
 Fénix ProDabing vytvořil český dabing cestujících pro OMSI. Původní projekt dabingu: https://fenixprodabing.cz/projekt/omsi_bussimulator
 
-Hlášení chyb
+**Hlášení chyb**
 
-Pokud něco zlobí, založ hlášení v Issues. Připiš verzi ETS2, verzi pluginu a situaci, ve které se problém projevil.
+Pokud máš nějaké problémy, založ hlášení v Issues. Připiš verzi ETS2, verzi pluginu a situaci, ve které se problém projevil, 
+případně mi napiš na discord, jmenuji se: denk172
