@@ -1,16 +1,16 @@
-ETS2 Coaches Ceske Hlasky z OMSI CZ
+**ETS2 Coaches Ceske Hlasky z OMSI CZ**
 
 Plugin přidává do Euro Truck Simulator 2 – Coaches české reakce cestujících z dabingu OMSI. Cestující se ozvou při prudkém brzdění a zatáčení, výrazných nerovnostech, pokutách, kolizích a poklesu spokojenosti za jízdy.
 
 Stav vydání: Veřejné vydání ZIPu s nahrávkami čeká na souhlas autorů dabingu.
 
-Požadavky
+**Požadavky**
 
 Euro Truck Simulator 2 s DLC Coaches
 
 Windows, 64bitová verze hry
 
-Instalace
+**Instalace**
 
 V sekci Releases otevři vydání a v části Assets stáhni ETS2_Coaches_OMSI_CZ_Plugin.zip.
 
@@ -20,7 +20,7 @@ Ve hře otevři Nastavení → Zvuk → Pokročilé a vypni Cestující v autobu
 
 Hlasitost upravíš v CoachesOmSiCZ.ini pomocí Volume v rozsahu 0–100. Změna se projeví od další hlášky i bez restartu hry.
 
-Autoři
+**Autoři**
 
 Denk172 vytvořil plugin pro ETS2.
 
