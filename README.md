@@ -30,3 +30,7 @@ Fénix ProDabing vytvořil český dabing cestujících pro OMSI. Původní proj
 
 Pokud máš nějaké problémy, založ hlášení v Issues. Připiš verzi ETS2, verzi pluginu a situaci, ve které se problém projevil, 
 případně mi napiš na discord, jmenuji se: denk172
+
+**Líbí se ti moje tvorba? můžeš mě podpořit zde: https://ko-fi.com/denk172**
+
+**Více mých modifikací zde:** https://denk172.github.io/Denk172-Mods-Web
