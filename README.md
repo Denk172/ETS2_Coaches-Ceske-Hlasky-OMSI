@@ -10,7 +10,7 @@ Windows, 64bitová verze hry
 
 **Instalace**
 
-V sekci Releases otevři vydání a v části Assets stáhni nejnovější verzi ETS2_Coaches_OMSI_CZ_Plugin.zip.
+V sekci Releases rozklikni nejnovější verzi a v části Assets stáhni ETS2_Coaches_OMSI_CZ_Plugin.zip.
 
 Vypni ETS2 a rozbal ZIP. Soubory CoachesOmSiCZ.dll a CoachesOmSiCZ.ini zkopíruj do složky Euro Truck Simulator 2\bin\win_x64\plugins. Pokud složka plugins chybí, vytvoř ji.
 Hlasitost a citlivost reakcí upravíš v CoachesOmSiCZ.ini
