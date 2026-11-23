@@ -15,6 +15,9 @@ V sekci Releases rozklikni nejnovější verzi a v části Assets stáhni ETS2_C
 Vypni ETS2 a rozbal ZIP. Soubory CoachesOmSiCZ.dll a CoachesOmSiCZ.ini zkopíruj do složky Euro Truck Simulator 2\bin\win_x64\plugins. Pokud složka plugins chybí, vytvoř ji.
 Hlasitost a citlivost reakcí upravíš v CoachesOmSiCZ.ini
 
+**Podporované modifikace**
+Karosa 95X Pack: https://lukino666.gumroad.com/l/karosa95x
+
 **Autoři**
 
 Denk172
