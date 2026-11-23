@@ -24,6 +24,7 @@ Karosa 95X Pack: https://lukino666.gumroad.com/l/karosa95x
 Denk172
 
 Fénix ProDabing vytvořil český dabing cestujících pro OMSI. Původní projekt dabingu: https://fenixprodabing.cz/projekt/omsi_bussimulator
+Další hlášky byly pobrány z české mapy do OMSI Havířov
 
 **Hlášení chyb**
 
