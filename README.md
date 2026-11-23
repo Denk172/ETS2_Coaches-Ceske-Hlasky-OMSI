@@ -16,6 +16,7 @@ Vypni ETS2 a rozbal ZIP. Soubory CoachesOmSiCZ.dll a CoachesOmSiCZ.ini zkopíruj
 Hlasitost a citlivost reakcí upravíš v CoachesOmSiCZ.ini
 
 **Podporované modifikace**
+
 Karosa 95X Pack: https://lukino666.gumroad.com/l/karosa95x
 
 **Autoři**
