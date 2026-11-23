@@ -17,7 +17,7 @@ Hlasitost a citlivost reakcí upravíš v CoachesOmSiCZ.ini
 
 **Autoři**
 
-Denk172.
+Denk172
 
 Fénix ProDabing vytvořil český dabing cestujících pro OMSI. Původní projekt dabingu: https://fenixprodabing.cz/projekt/omsi_bussimulator
 
